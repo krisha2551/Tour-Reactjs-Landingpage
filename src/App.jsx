@@ -19,6 +19,7 @@ function App() {
       <Tours/>
       <Country/>
       <Activities/>
+      {/* <Testimonials/> */}
       
      
    </>
